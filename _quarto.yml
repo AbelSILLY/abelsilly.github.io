@@ -1,0 +1,25 @@
+project: 
+  type: website
+  render: 
+    - index.qmd
+  
+website: 
+  back-to-top-navigation: true
+  page-navigation: true
+  search: false
+  title: AS
+  navbar: 
+    left:
+     - text: Home
+     - text: Teaching
+     - text: Talk
+     - text: CV
+     - text: Code
+  sidebar: 
+    logo: Photo_CV.jpg
+    logo-alt: "CV photo"
+format: 
+  html: 
+    theme: cosmo
+    #css: styles.css
+    toc: true
