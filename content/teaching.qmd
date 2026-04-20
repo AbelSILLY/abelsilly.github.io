@@ -1,0 +1,7 @@
+### Mathématiques Générales pour les PEIP 2ème année (21h)
+ - Workshops for second year student of [Polytech Montpellier](https://www.polytech.umontpellier.fr/)
+ - *Sequence convergence, Series convergence*
+
+### Statistical Test, Bioinformatics Master 2 Student (21h)
+ - Workshops for master 2 student of the [Bioinformatics master](https://formations.umontpellier.fr/fr/formations/master-XB/master-bioinformatique-KKI9GZEV.html) in Montpellier
+ - *Hypothesis testing, Student's Test, $\chi^2$ test, test for normality*
