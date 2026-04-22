@@ -8,11 +8,17 @@ description: Professional Webpage
 
 I'm currently a PhD student at [Institut Montpellierain Alexander Grothendieck](https://imag.umontpellier.fr/) working on "*Statistical modelling of RNA degradation mechanisms in plants*" under the supervision of [Alice Cleynen](https://alice.cleynen.fr/) and [Sophie Lebre](https://www.univ-montp3.fr/miap/~lebre/). My main research interests are about developping statistical methods regarding omics data. I strongly value bioinformatics and am also interested in machine learning in general.
 
+::: {.column-margin}
+![](Photo_CV.jpg)
+:::
+
 ## Contact
  - **e-mail**: abel.silly@umontpellier.fr
  - **Office**: 127 in building 9
  - **address**: 9 Rue du Truel, 34090 Montpellier, France
 
+
 ## Newsletter
 
  - Until July, I'm visiting the [Mathematical Sciences Institute](https://maths.anu.edu.au/) thanks to the [IRL-FAMSI](https://maths.anu.edu.au/research/famsi-irl).
+

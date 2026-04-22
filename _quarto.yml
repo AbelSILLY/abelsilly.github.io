@@ -3,7 +3,9 @@ project:
   render: 
     - index.qmd
     - content/teaching.qmd
-  
+    - content/talks.qmd
+    - content/codes.qmd
+
 website: 
   back-to-top-navigation: true
   page-navigation: true
@@ -15,14 +17,16 @@ website:
        href: index.qmd
      - text: Teaching
        href: content/teaching.qmd
-     - text: Talk
-     - text: CV
+     - text: Talks
+       href: content/talks.qmd
+     #- text: CV
      - text: Code
-  sidebar: 
-    logo: Photo_CV.jpg
-    logo-alt: "CV photo"
+       href: content/codes.qmd
+  #sidebar: 
+    #logo: Photo_CV.jpg
+    #logo-alt: "CV photo"
 format: 
   html: 
-    theme: cosmo
+    theme: flatly
     #css: styles.css
     toc: true
