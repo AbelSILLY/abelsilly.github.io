@@ -1,0 +1,5 @@
+---
+format : pdf
+---
+\usepackage{pdfpages}
+\includepdf[pages=-]{CV_SILLY_ABEL_2026.pdf}
