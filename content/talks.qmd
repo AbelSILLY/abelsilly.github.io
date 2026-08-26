@@ -1,4 +1,12 @@
-### [WA RNA Salon](https://events.humanitix.com/wa-rna-salon-m4jlk4qp) , Perth, Australia
+### [WA RNA Salon](https://events.humanitix.com/wa-rna-salon-m4jlk4qp) - University of Western Australia - Perth, Australia
  - May 1st, 2026
  - **Statistical methods to understand the impacts of different stresses on a plant microbiome system.**
  - *Bridge between metabarcoding and RNAseq analysis*
+
+### RNA Therapeutics & Multi-Omics Innovation - Murdoch University - Perth, Australia
+ - 29th April, 2026
+ - **Statistical methods for RNA studies: Degradation mechanism identification**
+
+### Mathematical Science Institute Graduate Seminar - Australian National University - Canberra, Australia
+ - 29th May, 2026
+ - **Statistical Modeling of RNA degradation mechanisms in plants**

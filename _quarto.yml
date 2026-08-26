@@ -20,9 +20,10 @@ website:
        href: content/teaching.qmd
      - text: Talks
        href: content/talks.qmd
-     #- text: CV
-     - text: Code
-       href: content/codes.qmd
+    #  - text: CV
+    #    href: content/cv.qmd
+    #  - text: Code
+    #    href: content/codes.qmd
   #sidebar: 
     #logo: Photo_CV.jpg
     #logo-alt: "CV photo"
